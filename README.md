@@ -22,9 +22,9 @@ Release notes and earlier versions are on the
 
 ## Install
 
-**macOS:** open the `.dmg` and drag Obelisk to Applications. If macOS says on first
-launch that it cannot verify the app, open **System Settings → Privacy & Security** and
-click **Open Anyway**.
+**macOS:** open the `.dmg` and drag Obelisk to Applications. The first time you open it,
+macOS asks whether to open an app downloaded from the internet: click **Open**. The app
+is signed and notarized by Apple.
 
 **Windows:** run the installer. If Windows shows "Windows protected your PC", click
 **More info → Run anyway**.
